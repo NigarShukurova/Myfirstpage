@@ -1,0 +1,40 @@
+div {display:inline-block;
+display:flex;
+justify-content: center;
+column-gap: 50px;
+align-items: center;
+margin-top: 100px;
+padding:10px;
+height: 250px;
+border-radius:10px; 
+line-height: 40px;}
+
+.basic {display: flex;
+    flex-direction:column;
+border: 1px solid rgb(216, 214, 214);
+}
+.standard{display: flex;
+    flex-direction:column;
+border: 1px solid rgb(216, 214, 214);}
+.premium {
+    display: flex;
+    flex-direction:column;
+    border: 1px solid rgb(212, 211, 211);
+}
+h1 { 
+    font-size: 40px;
+    font-weight: bold;
+}
+h2 {
+    font-size: 25px;
+    font-weight: bolder;
+}
+ p{
+    font-size: 15px;
+ }
+ button {
+    margin-top:auto;
+    background-color: orange;
+    border-radius: 20px;
+    
+ }
